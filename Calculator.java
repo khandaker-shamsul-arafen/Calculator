@@ -1,5 +1,5 @@
-public final class Calculator {
 
+<<<<<<< HEAD
     private static Calculator calculator = null;
 
     private Calculator() {
@@ -23,3 +23,5 @@ public final class Calculator {
         throw new CloneNotSupportedException();
     }
 }
+=======
+>>>>>>> b7ae170f1cebb02cbe77950860daca10fbc80549
